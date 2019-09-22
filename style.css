@@ -1,0 +1,13 @@
+#parent {
+   display: table;
+   width: 100%;
+}
+#form_repo {
+	 
+   display: table-cell;
+   text-align: center;
+   vertical-align: middle;
+}
+#ex1 {
+  margin-bottom: 25px;
+}
